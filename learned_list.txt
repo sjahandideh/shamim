@@ -1,0 +1,5 @@
+Date: 25 OCT 2014
+  - how to setup a gem using bundler
+  - development_dependency vs runtime_dependency
+  - gem versioning
+
